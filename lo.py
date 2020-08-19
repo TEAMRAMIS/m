@@ -22,10 +22,6 @@ Azra9 = '\033[1;34m'
 Roz = '\033[1;35m'
 Azra92 = '\033[1;36m'
 
-class Untitled:
-        def __init__(self):
-                
-os.system('clear')
 time.sleep (1)
 os.system('pkg update && pkg upgrade && pkg install python && pkg install python2 && pip2 install mechanize && pip install requests && pip2 install requests')
 os.system('clear')
