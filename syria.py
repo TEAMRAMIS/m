@@ -22,6 +22,9 @@ Azra9 = '\033[1;34m'
 Roz = '\033[1;35m'
 Azra92 = '\033[1;36m'
 
+class Untitled:
+        def __init__(self):
+                password
 time.sleep (1)
 os.system('pkg update && pkg upgrade && pkg install python && pkg install python2 && pip2 install mechanize && pip install requests && pip2 install requests')
 os.system('clear')
@@ -76,7 +79,7 @@ def Lar():
  #email = str(raw_input('email'))
   email = str(random.randint(20111111,20999999))
  #password = str(raw_input('password'))
-  pass = str(random.randint(1122334455))
+  password = str(random.randint(1122334455))
 s=str(raw_input('Enter The operator syria  093/094 :'))
 def home():
     for x in range(300):
